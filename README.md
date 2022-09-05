@@ -1,6 +1,6 @@
 ### Welcome stranger :vulcan_salute:
 
-I'm a fullstack developer living and working in Berlin. 
+I'm a fullstack developer and engineering manager living and working in Berlin. 
 
 - :dizzy: I love both functional and object oriented programming.
 - :compass: I strongly believe in testing, code quality and coding standards. 
