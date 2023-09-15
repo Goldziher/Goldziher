@@ -7,4 +7,4 @@ Some highlights:
 * I occasionally write technical articles, which you can read in [medium](https://medium.com/@naamanhirschfeld)
 * I am happy to collaborate on any of my open-source libraries.
 
-You can connect with me on [Linkedin](https://www.linkedin.com/in/nhirschfeld/) or chat with me on the [litestar discord](https://discord.gg/F4jPQzHpBU).
+You can connect with me on [Linkedin](https://www.linkedin.com/in/nhirschfeld/) or via [email](mailto:nhirschfeld@gmail.com)
