@@ -1,6 +1,6 @@
 # Welcome stranger :vulcan_salute:
 
-I'm **Na'aman Hirschfeld**, a Berlin-based startup founder and **code architect** specializing in distributed systems, AI integration, and developer tooling. I build frameworks and tools that solve complex engineering challenges at scale.
+I'm **Na'aman Hirschfeld**, a Berlin-based **startup founder** and **code architect** specializing in distributed systems, AI integration, and developer tooling. I build frameworks and tools that solve complex engineering challenges at scale.
 
 ## 📊 GitHub Stats
 
