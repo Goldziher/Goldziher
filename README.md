@@ -10,7 +10,7 @@ I'm **Na'aman Hirschfeld**, a Berlin-based startup founder and **code architect*
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Goldziher&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Goldziher&theme=tokyonight&no-frame=true&column=7"/>
 </div>
 
 ## 🚀 Architecture & Open Source
