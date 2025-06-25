@@ -1,4 +1,4 @@
-# Welcome stranger :vulcan_salute:
+# Welcome, stranger :vulcan_salute:
 
 I'm **Na'aman Hirschfeld**, a Berlin-based **startup founder** and **code architect** specializing in distributed systems, AI integration, and developer tooling. I build frameworks and tools that solve complex engineering challenges at scale.
 
@@ -12,7 +12,7 @@ I'm **Na'aman Hirschfeld**, a Berlin-based **startup founder** and **code archit
 ## 🚀 Open Source
 
 ### 🏗️ Frameworks
-- **[Litestar](https://github.com/litestar-org/litestar)**: I authored and led the development of the first two versions of Litestar (a production-ready, lightweight ASGI framework, originally called `Starlite`).
+- **[Litestar](https://github.com/litestar-org/litestar)**: High performance "mid-stack" Python API framework.
 
 ### 🔧 Developer Tooling
 - **[AI Rulez](https://github.com/Goldziher/ai-rulez)**: A CLI tool for managing and generating AI coding rules documentation from YAML configurations.
@@ -23,19 +23,19 @@ I'm **Na'aman Hirschfeld**, a Berlin-based **startup founder** and **code archit
 - **[Prompt Template](https://github.com/Goldziher/prompt-template)**: Flexible and lightweight library for creating prompt templates.
 
 ### 🤖 AI & Data Processing
-- **[Interface Forge](https://github.com/Goldziher/interface-forge)**: A powerful TypeScript library for creating strongly typed mock data factories.
+- **[Interface Forge](https://github.com/Goldziher/interface-forge)**: A powerful TypeScript library for creating strongly typed mock data factories using types and zod schemas.
 - **[Kreuzberg](https://github.com/Goldziher/kreuzberg)**: A modern Python library for extracting text from documents, supporting a wide variety of file formats.
 - **[Tree Sitter Language Pack](https://github.com/Goldziher/tree-sitter-language-pack)**: A `Tree Sitter`-powered language pack that simplifies parsing and analyzing programming languages.
-- **[Polyfactory](https://github.com/litestar-org/polyfactory)**: I authored `polyfactory` - a modern mock data generation library used by many organizations.
+- **[Polyfactory](https://github.com/litestar-org/polyfactory)**: A modern mock data generation library that uses python typing to generate values.
 
 ### 🚀 Startups
 - **[GrantFlow.AI](https://grantflow.ai)**: Currently co-founder and main developer of `grantflow.ai` - a product aiming to streamline STEM grant applications. Built a comprehensive RAG (Retrieval-Augmented Generation) system for intelligent document processing and grant matching.
 
 ### ❤️‍🩹 Broken Dreams (failed startups and products)
 
-- **[Devlingo](https://github.com/Goldziher/devlingo)**: `Devlingo`, an AI-powered design system.
-- **[ProductHound](https://github.com/Goldziher/product-hound)**: `ProductHound`, a WhatsApp-based product AI recommendation chatbot.
-- **[BaseMind.AI](https://github.com/Goldziher/basemind.ai)**: `BaseMind.AI`, high performance LLM gateway.
+- **[Devlingo](https://github.com/Goldziher/devlingo)**: an AI-powered design system.
+- **[ProductHound](https://github.com/Goldziher/product-hound)**: a WhatsApp-based product AI recommendation chatbot.
+- **[BaseMind.AI](https://github.com/Goldziher/basemind.ai)**: a high performance LLM gateway and clients generated using gRPC.
 
 ## 💬 Let's Connect!
 
