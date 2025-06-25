@@ -28,15 +28,14 @@ I'm **Na'aman Hirschfeld**, a Berlin-based startup founder and **code architect*
 - **[Tree Sitter Language Pack](https://github.com/Goldziher/tree-sitter-language-pack)**: A `Tree Sitter`-powered language pack that simplifies parsing and analyzing programming languages.
 - **[Polyfactory](https://github.com/litestar-org/polyfactory)**: I authored `polyfactory` - a modern mock data generation library used by many organizations.
 
-### 🚀 Products & Startups
+### 🚀 Startups
 - **[GrantFlow.AI](https://grantflow.ai)**: Currently co-founder and main developer of `grantflow.ai` - a product aiming to streamline STEM grant applications. Built a comprehensive RAG (Retrieval-Augmented Generation) system for intelligent document processing and grant matching.
 
-### ❤️‍🩹 Broken Dreams (failed products and PoC)
+### ❤️‍🩹 Broken Dreams (failed startups and products)
 
-- **[Devlingo](https://github.com/Goldziher/devlingo)**: Co-founder and main developer of `Devlingo`, an AI-powered design system.
-- **[ProductHound](https://github.com/Goldziher/product-hound)**: Co-founder and main developer of `ProductHound`, a WhatsApp-based product recommendation chatbot.
-- **[BaseMind.AI](https://github.com/Goldziher/basemind.ai)**: Co-founder and main developer of `BaseMind.AI` - an API gateway for LLMs.
-
+- **[Devlingo](https://github.com/Goldziher/devlingo)**: `Devlingo`, an AI-powered design system.
+- **[ProductHound](https://github.com/Goldziher/product-hound)**: `ProductHound`, a WhatsApp-based product AI recommendation chatbot.
+- **[BaseMind.AI](https://github.com/Goldziher/basemind.ai)**: `BaseMind.AI`, high performance LLM gateway.
 
 ## 💬 Let's Connect!
 
