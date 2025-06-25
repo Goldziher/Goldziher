@@ -9,9 +9,9 @@ I'm **Na'aman Hirschfeld**, a Berlin-based startup founder and **code architect*
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldziher&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-## 🚀 Architecture & Open Source
+## 🚀 Open Source
 
-### 🏗️ Framework Architecture 
+### 🏗️ Frameworks
 - **[Litestar](https://github.com/litestar-org/litestar)**: I authored and led the development of the first two versions of Litestar (a production-ready, lightweight ASGI framework, originally called `Starlite`).
 
 ### 🔧 Developer Tooling
