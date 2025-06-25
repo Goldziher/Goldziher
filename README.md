@@ -29,10 +29,14 @@ I'm **Na'aman Hirschfeld**, a Berlin-based startup founder and **code architect*
 - **[Polyfactory](https://github.com/litestar-org/polyfactory)**: I authored `polyfactory` - a modern mock data generation library used by many organizations.
 
 ### 🚀 Products & Startups
+- **[GrantFlow.AI](https://grantflow.ai)**: Currently co-founder and main developer of `grantflow.ai` - a product aiming to streamline STEM grant applications. Built a comprehensive RAG (Retrieval-Augmented Generation) system for intelligent document processing and grant matching.
+
+### ❤️‍🩹 Broken Dreams (failed products and PoC)
+
 - **[Devlingo](https://github.com/Goldziher/devlingo)**: Co-founder and main developer of `Devlingo`, an AI-powered design system.
 - **[ProductHound](https://github.com/Goldziher/product-hound)**: Co-founder and main developer of `ProductHound`, a WhatsApp-based product recommendation chatbot.
 - **[BaseMind.AI](https://github.com/Goldziher/basemind.ai)**: Co-founder and main developer of `BaseMind.AI` - an API gateway for LLMs.
-- **[GrantFlow.AI](https://grantflow.ai)**: Currently co-founder and main developer of `grantflow.ai` - a product aiming to streamline STEM grant applications. Built a comprehensive RAG (Retrieval-Augmented Generation) system for intelligent document processing and grant matching.
+
 
 ## 💬 Let's Connect!
 
