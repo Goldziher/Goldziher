@@ -44,4 +44,5 @@ I'm **Na'aman Hirschfeld**, a Berlin-based **startup founder** and **coder** spe
 ## 💬 Let's Connect!
 
 - Visit my [LinkedIn profile](https://www.linkedin.com/in/nhirschfeld/).
+- Follow me on [BlueSky](https://bsky.app/profile/nhirschfeld.bsky.social)
 - You can email me at **nhirschfeld [at] gmail [dot] com**.
