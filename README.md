@@ -12,7 +12,8 @@ I'm **Na'aman Hirschfeld**, a Berlin-based **startup founder** and **coder** spe
 ## 🚀 My Open Source Work
 
 ### 🏗️ API Frameworks
-- **[Litestar](https://github.com/litestar-org/litestar)**: High performance "mid-stack" Python API framework.
+- **[Spikard](https://github.com/Goldziher/spikard)**: High performance polyglot web framework written in Rust.
+- **[Litestar](https://github.com/litestar-org/litestar)**: "mid-stack" Python API framework.
 
 ### 🔧 Dev Tooling
 - **[AI Rulez](https://github.com/Goldziher/ai-rulez)**: A CLI tool for managing and generating AI coding rules documentation from YAML configurations.
