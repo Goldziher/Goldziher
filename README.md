@@ -2,12 +2,7 @@
 
 I'm **Na'aman Hirschfeld**, a Berlin-based **startup founder** and **coder** specializing in distributed systems, AI systems, and developer tooling. 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Goldziher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldziher&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Goldziher)
 
 ## 🚀 My Open Source Work
 
