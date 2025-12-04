@@ -2,7 +2,7 @@
 
 I'm **Na'aman Hirschfeld**, a Berlin-based **startup founder** and **coder** specializing in distributed systems, AI systems, and developer tooling. 
 
-In my day job I'm a freelancer software engineer, but my hobby is OSS. Yes... I code for fun too. 
+In my day job I'm a freelance software engineer, but my hobby is OSS. Yes... I code for fun too. 
 
 ## Open Source
 
