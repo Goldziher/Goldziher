@@ -37,6 +37,7 @@ In my day job I'm a freelance software engineer, but my hobby is OSS. Yes... I c
 - **[Devlingo](https://github.com/Goldziher/devlingo)**: an AI-powered design system.
 - **[ProductHound](https://github.com/Goldziher/product-hound)**: a WhatsApp-based product AI recommendation chatbot.
 - **[BaseMind.AI](https://github.com/Goldziher/basemind.ai)**: a high performance LLM gateway and clients generated using gRPC.
+- **[Grantflow.AI](https://github.com/grantflow-ai/grantflow)**: a sophisticated grant application writing platform.
 
 ## 💬 Let's Connect!
 
