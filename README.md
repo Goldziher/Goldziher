@@ -6,7 +6,7 @@ I'm **Na'aman Hirschfeld** — founder & CEO of [**kreuzberg.dev**](https://kreu
 [![Twitch](https://img.shields.io/badge/Twitch-Live%20coding-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/namihirschfeld)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhirschfeld/)
 [![BlueSky](https://img.shields.io/badge/BlueSky-Follow-0085FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/nhirschfeld.bsky.social)
-[![Medium](https://img.shields.io/badge/Medium-Read-12100E?style=flat-square&logo=medium&logoColor=white)](https://naamanhirschfeld.medium.com/)
+[![Medium](https://img.shields.io/badge/Medium-Read-444444?style=flat-square&logo=medium&logoColor=white)](https://naamanhirschfeld.medium.com/)
 [![DEV.to](https://img.shields.io/badge/DEV.to-Read-3B49DF?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/nhirschfeld)
 
 ---
