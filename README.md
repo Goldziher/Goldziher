@@ -1,58 +1,66 @@
 # Hey there :vulcan_salute:
 
-I'm **Na'aman Hirschfeld** — a Berlin-based startup founder, freelance software engineer, and open-source enthusiast.
+I'm **Na'aman Hirschfeld** — founder & CEO of [**kreuzberg.dev**](https://kreuzberg.dev), creator of [**Litestar**](https://github.com/litestar-org/litestar) and [**Polyfactory**](https://github.com/litestar-org/polyfactory). I build polyglot open-source tools — typically with a Rust core and bindings for every language I can get my hands on.
 
-I'm a **co-founder and CEO** of [**kreuzberg.dev**](https://kreuzberg.dev) — building a polyglot document intelligence engine with a Rust core. On the freelance side, I work with companies like [Armis Security](https://armis.com) and [fincom.co](https://fincom.co).
+[![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/38pF6qGpYD)
+[![Twitch](https://img.shields.io/badge/Twitch-Live%20coding-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/namihirschfeld)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhirschfeld/)
+[![BlueSky](https://img.shields.io/badge/BlueSky-Follow-0085FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/nhirschfeld.bsky.social)
+[![Medium](https://img.shields.io/badge/Medium-Read-000000?style=flat-square&logo=medium&logoColor=white)](https://naamanhirschfeld.medium.com/)
+[![DEV.to](https://img.shields.io/badge/DEV.to-Read-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/nhirschfeld)
 
-I code in **Rust**, **Python**, **Go**, **TypeScript**, and whatever else the problem calls for.
+---
 
 ## Kreuzberg
 
-My main focus. [**Kreuzberg**](https://github.com/kreuzberg-dev/kreuzberg) is a fast, polyglot document intelligence engine that extracts structured data from 75+ document formats using streaming parsers and built-in OCR. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, TypeScript — or via CLI, REST API, and MCP server.
+My company and main focus — polyglot document intelligence with a Rust core.
 
-| Repo | Stars |
-|------|-------|
-| [kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) | ![GitHub stars](https://img.shields.io/github/stars/kreuzberg-dev/kreuzberg?style=flat-square) |
-| [html-to-markdown](https://github.com/kreuzberg-dev/html-to-markdown) | ![GitHub stars](https://img.shields.io/github/stars/kreuzberg-dev/html-to-markdown?style=flat-square) |
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) | ![Stars](https://img.shields.io/github/stars/kreuzberg-dev/kreuzberg?style=flat-square) | Extract text, metadata & structured data from 97+ formats |
+| [html-to-markdown](https://github.com/kreuzberg-dev/html-to-markdown) | ![Stars](https://img.shields.io/github/stars/kreuzberg-dev/html-to-markdown?style=flat-square) | High performance CommonMark-compliant HTML converter |
+| [tree-sitter-language-pack](https://github.com/kreuzberg-dev/tree-sitter-language-pack) | ![Stars](https://img.shields.io/github/stars/kreuzberg-dev/tree-sitter-language-pack?style=flat-square) | 305+ language grammars with polyglot bindings |
+| [liter-llm](https://github.com/kreuzberg-dev/liter-llm) | ![Stars](https://img.shields.io/github/stars/kreuzberg-dev/liter-llm?style=flat-square) | Universal LLM client — 142+ providers, 11 language bindings |
+
+## Litestar
+
+I created these projects, now maintained by the [Litestar org](https://github.com/litestar-org).
+
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [litestar](https://github.com/litestar-org/litestar) | ![Stars](https://img.shields.io/github/stars/litestar-org/litestar?style=flat-square) | Production-ready Python ASGI framework |
+| [polyfactory](https://github.com/litestar-org/polyfactory) | ![Stars](https://img.shields.io/github/stars/litestar-org/polyfactory?style=flat-square) | Mock data generation using Python's type system |
 
 ## Open Source
 
-### API Frameworks
+### Web Frameworks
 
-- **[Litestar](https://github.com/litestar-org/litestar)** ![GitHub stars](https://img.shields.io/github/stars/litestar-org/litestar?style=flat-square) — A Python ASGI framework I created. Docs at [litestar.dev](https://litestar.dev).
-- **[Spikard](https://github.com/Goldziher/spikard)** ![GitHub stars](https://img.shields.io/github/stars/Goldziher/spikard?style=flat-square) — High performance polyglot web framework written in Rust. Docs at [spikard.dev](https://spikard.dev).
-
-### Testing & Mock Data
-
-- **[Polyfactory](https://github.com/litestar-org/polyfactory)** ![GitHub stars](https://img.shields.io/github/stars/litestar-org/polyfactory?style=flat-square) — Mock data generation library using Python's type system. I created this.
-- **[Interface Forge](https://github.com/Goldziher/interface-forge)** ![GitHub stars](https://img.shields.io/github/stars/Goldziher/interface-forge?style=flat-square) — TypeScript mock data factories using types and zod schemas.
-- **[Fabricator](https://github.com/Goldziher/fabricator)** ![GitHub stars](https://img.shields.io/github/stars/Goldziher/fabricator?style=flat-square) — Go factories for mock data generation.
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [spikard](https://github.com/Goldziher/spikard) | ![Stars](https://img.shields.io/github/stars/Goldziher/spikard?style=flat-square) | Codegen-first polyglot web framework — Rust core, 7 language bindings |
 
 ### Dev Tooling
 
-- **[AI Rulez](https://github.com/Goldziher/ai-rulez)** ![GitHub stars](https://img.shields.io/github/stars/Goldziher/ai-rulez?style=flat-square) — Universal config manager for AI coding assistants. Define rules once, sync to Claude, Cursor, Copilot, etc.
-- **[Tree Sitter Language Pack](https://github.com/Goldziher/tree-sitter-language-pack)** ![GitHub stars](https://img.shields.io/github/stars/Goldziher/tree-sitter-language-pack?style=flat-square) — A tree-sitter-powered language pack for parsing and analyzing programming languages.
-- **[Uncomment](https://github.com/Goldziher/uncomment)** ![GitHub stars](https://img.shields.io/github/stars/Goldziher/uncomment?style=flat-square) — Blazingly fast CLI to remove comments from code using tree-sitter grammars.
-- **[GitFluff](https://github.com/Goldziher/gitfluff)** — The ultimate commit linter.
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [ai-rulez](https://github.com/Goldziher/ai-rulez) | ![Stars](https://img.shields.io/github/stars/Goldziher/ai-rulez?style=flat-square) | AI governance for Claude, Cursor, Copilot & 14+ tools |
+| [scythe](https://github.com/Goldziher/scythe) | ![Stars](https://img.shields.io/github/stars/Goldziher/scythe?style=flat-square) | Polyglot SQL compiler and linter |
+| [uncomment](https://github.com/Goldziher/uncomment) | ![Stars](https://img.shields.io/github/stars/Goldziher/uncomment?style=flat-square) | Tree-sitter powered comment removal for 306+ languages |
+| [gitfluff](https://github.com/Goldziher/gitfluff) | ![Stars](https://img.shields.io/github/stars/Goldziher/gitfluff?style=flat-square) | Commit message linter for Conventional Commits |
+| [gitmind](https://github.com/Goldziher/gitmind) | ![Stars](https://img.shields.io/github/stars/Goldziher/gitmind?style=flat-square) | AI-powered git repository analysis |
 
-### Utility Libraries
+### Libraries
 
-- **[Go Utils](https://github.com/Goldziher/go-utils)** ![GitHub stars](https://img.shields.io/github/stars/Goldziher/go-utils?style=flat-square) — Go generics utilities inspired by JavaScript and Python.
-- **[Type Predicates](https://github.com/Goldziher/type-predicates)** ![GitHub stars](https://img.shields.io/github/stars/Goldziher/type-predicates?style=flat-square) — Comprehensive TypeScript type-guards, type assertions, and related utils.
-- **[Prompt Template](https://github.com/Goldziher/prompt-template)** — Flexible library for creating prompt templates.
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [interface-forge](https://github.com/Goldziher/interface-forge) | ![Stars](https://img.shields.io/github/stars/Goldziher/interface-forge?style=flat-square) | TypeScript mock data factories |
+| [go-utils](https://github.com/Goldziher/go-utils) | ![Stars](https://img.shields.io/github/stars/Goldziher/go-utils?style=flat-square) | Go generics utilities inspired by JS and Python |
+| [type-predicates](https://github.com/Goldziher/type-predicates) | ![Stars](https://img.shields.io/github/stars/Goldziher/type-predicates?style=flat-square) | Comprehensive TypeScript type guards and assertions |
+| [fabricator](https://github.com/Goldziher/fabricator) | ![Stars](https://img.shields.io/github/stars/Goldziher/fabricator?style=flat-square) | Go factories for mock data generation |
+| [prompt-template](https://github.com/Goldziher/prompt-template) | ![Stars](https://img.shields.io/github/stars/Goldziher/prompt-template?style=flat-square) | Lightweight LLM prompt template library |
 
-## Broken Dreams
+---
 
-Failed startups and abandoned projects — each one a lesson.
-
-- **[GrantFlow.AI](https://github.com/grantflow-ai/grantflow)** — STEM grant application writing platform.
-- **[BaseMind.AI](https://github.com/Goldziher/basemind.ai)** — High performance LLM gateway with gRPC-generated clients.
-- **[Devlingo](https://github.com/Goldziher/devlingo)** — AI-powered design system.
-- **[ProductHound](https://github.com/Goldziher/product-hound)** — WhatsApp-based product recommendation chatbot.
-
-## Let's Connect
-
-- [Kreuzberg Discord](https://discord.gg/D5ZR83W5KM)
-- [LinkedIn](https://www.linkedin.com/in/nhirschfeld/)
-- [BlueSky](https://bsky.app/profile/nhirschfeld.bsky.social)
-- **nhirschfeld [at] gmail [dot] com**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Goldziher&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
