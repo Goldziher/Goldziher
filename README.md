@@ -2,12 +2,26 @@
 
 I'm **Na'aman Hirschfeld** — founder & CEO of [**kreuzberg.dev**](https://kreuzberg.dev), creator of [**Litestar**](https://github.com/litestar-org/litestar) and [**Polyfactory**](https://github.com/litestar-org/polyfactory). I build polyglot open-source tools, usually with a Rust core and bindings for the languages people actually use in production.
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/38pF6qGpYD)
-[![Twitch](https://img.shields.io/badge/Twitch-Live%20coding-5865F2?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/namihirschfeld)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5865F2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhirschfeld/)
-[![BlueSky](https://img.shields.io/badge/BlueSky-Follow-5865F2?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/nhirschfeld.bsky.social)
-[![Medium](https://img.shields.io/badge/Medium-Read-5865F2?style=flat-square&logo=medium&logoColor=white)](https://naamanhirschfeld.medium.com/)
-[![DEV.to](https://img.shields.io/badge/DEV.to-Read-5865F2?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/nhirschfeld)
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin: 20px 0;">
+  <a href="https://discord.gg/38pF6qGpYD">
+    <img src="https://img.shields.io/badge/Discord-Join%20us-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://www.twitch.tv/namihirschfeld">
+    <img src="https://img.shields.io/badge/Twitch-Live%20coding-5865F2?style=flat-square&logo=twitch&logoColor=white" alt="Twitch">
+  </a>
+  <a href="https://www.linkedin.com/in/nhirschfeld/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-5865F2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://bsky.app/profile/nhirschfeld.bsky.social">
+    <img src="https://img.shields.io/badge/BlueSky-Follow-5865F2?style=flat-square&logo=bluesky&logoColor=white" alt="BlueSky">
+  </a>
+  <a href="https://naamanhirschfeld.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-Read-5865F2?style=flat-square&logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="https://dev.to/nhirschfeld">
+    <img src="https://img.shields.io/badge/DEV.to-Read-5865F2?style=flat-square&logo=devdotto&logoColor=white" alt="DEV.to">
+  </a>
+</div>
 
 ---
 
