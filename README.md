@@ -1,6 +1,6 @@
 # Hey there :vulcan_salute:
 
-I'm **Na'aman Hirschfeld** — founder & CTO of [**kreuzberg.dev**](https://kreuzberg.dev), creator of [**Litestar**](https://github.com/litestar-org/litestar) and [**Polyfactory**](https://github.com/litestar-org/polyfactory). I build polyglot open-source tools, usually with a Rust core and bindings for the languages people actually use in production.
+I'm **Na'aman Hirschfeld** — CTO of [**kreuzberg.dev**](https://kreuzberg.dev), creator of [**Litestar**](https://github.com/litestar-org/litestar) and [**Polyfactory**](https://github.com/litestar-org/polyfactory). I build polyglot open-source tools, usually with a Rust core and bindings for the languages people actually use in production.
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin: 20px 0;">
   <a href="https://discord.gg/38pF6qGpYD">
