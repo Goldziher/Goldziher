@@ -1,6 +1,6 @@
 # Hey there :vulcan_salute:
 
-I'm **Na'aman Hirschfeld** — CTO of [**kreuzberg.dev**](https://kreuzberg.dev), creator of [**Litestar**](https://github.com/litestar-org/litestar) and [**Polyfactory**](https://github.com/litestar-org/polyfactory). I build polyglot open-source tools, usually with a Rust core and bindings for the languages people actually use in production.
+I'm **Na'aman Hirschfeld** — CTO of [**xberg.io**](https://xberg.io), creator of [**Litestar**](https://github.com/litestar-org/litestar) and [**Polyfactory**](https://github.com/litestar-org/polyfactory). I build polyglot open-source tools, usually with a Rust core and bindings for the languages people actually use in production.
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin: 20px 0;">
   <a href="https://discord.gg/38pF6qGpYD">
@@ -27,16 +27,16 @@ I'm **Na'aman Hirschfeld** — CTO of [**kreuzberg.dev**](https://kreuzberg.dev)
 
 ## Current Focus
 
-Kreuzberg is my company and main focus: document intelligence, extraction, crawling, and language tooling built around fast Rust cores with broad language support.
+Xberg is my company and main focus: document intelligence, extraction, crawling, and language tooling built around fast Rust cores with broad language support.
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) | ![Stars](https://img.shields.io/github/stars/kreuzberg-dev/kreuzberg?style=flat-square) | Document intelligence for 97+ formats with Rust, Python, Node, Go, Java, Ruby, C#, PHP, R, CLI, REST, and MCP support |
-| [html-to-markdown](https://github.com/kreuzberg-dev/html-to-markdown) | ![Stars](https://img.shields.io/github/stars/kreuzberg-dev/html-to-markdown?style=flat-square) | High-performance CommonMark-compliant HTML to Markdown conversion |
-| [tree-sitter-language-pack](https://github.com/kreuzberg-dev/tree-sitter-language-pack) | ![Stars](https://img.shields.io/github/stars/kreuzberg-dev/tree-sitter-language-pack?style=flat-square) | 306+ tree-sitter grammars with polyglot bindings |
-| [liter-llm](https://github.com/kreuzberg-dev/liter-llm) | ![Stars](https://img.shields.io/github/stars/kreuzberg-dev/liter-llm?style=flat-square) | Universal LLM client for 142+ providers with 11 native language bindings |
-| [kreuzcrawl](https://github.com/kreuzberg-dev/kreuzcrawl) | ![Stars](https://img.shields.io/github/stars/kreuzberg-dev/kreuzcrawl?style=flat-square) | High-performance web crawling engine with bindings for 11 languages |
-| [alef](https://github.com/kreuzberg-dev/alef) | ![Stars](https://img.shields.io/github/stars/kreuzberg-dev/alef?style=flat-square) | Fully typed, lint-clean language bindings for Rust libraries across 16 languages |
+| [xberg](https://github.com/xberg-io/xberg) | ![Stars](https://img.shields.io/github/stars/xberg-io/xberg?style=flat-square) | Document intelligence for 97+ formats with Rust, Python, Node, Go, Java, Ruby, C#, PHP, R, CLI, REST, and MCP support |
+| [html-to-markdown](https://github.com/xberg-io/html-to-markdown) | ![Stars](https://img.shields.io/github/stars/xberg-io/html-to-markdown?style=flat-square) | High-performance CommonMark-compliant HTML to Markdown conversion |
+| [tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) | ![Stars](https://img.shields.io/github/stars/xberg-io/tree-sitter-language-pack?style=flat-square) | 306+ tree-sitter grammars with polyglot bindings |
+| [liter-llm](https://github.com/xberg-io/liter-llm) | ![Stars](https://img.shields.io/github/stars/xberg-io/liter-llm?style=flat-square) | Universal LLM client for 142+ providers with 11 native language bindings |
+| [crawlberg](https://github.com/xberg-io/crawlberg) | ![Stars](https://img.shields.io/github/stars/xberg-io/crawlberg?style=flat-square) | High-performance web crawling engine with bindings for 11 languages |
+| [alef](https://github.com/xberg-io/alef) | ![Stars](https://img.shields.io/github/stars/xberg-io/alef?style=flat-square) | Fully typed, lint-clean language bindings for Rust libraries across 16 languages |
 
 ## Frameworks I Created
 
@@ -49,6 +49,7 @@ Kreuzberg is my company and main focus: document intelligence, extraction, crawl
 
 | Project | Stars | Description |
 |---------|-------|-------------|
+| [basemind](https://github.com/Goldziher/basemind) | ![Stars](https://img.shields.io/github/stars/Goldziher/basemind?style=flat-square) | Full AI context and content layer for coding agents over one MCP server: tree-sitter code-map, document RAG, shared memory, multi-agent comms, web crawl, git history and blame. 300+ languages, pure Rust |
 | [ai-rulez](https://github.com/Goldziher/ai-rulez) | ![Stars](https://img.shields.io/github/stars/Goldziher/ai-rulez?style=flat-square) | AI governance and generated config for Claude, Cursor, Copilot, Codex, Gemini, Windsurf, and more |
 | [spikard](https://github.com/Goldziher/spikard) | ![Stars](https://img.shields.io/github/stars/Goldziher/spikard?style=flat-square) | Rust-powered multi-language web toolkit with bindings for Python, TypeScript, Ruby, and PHP |
 | [scythe](https://github.com/Goldziher/scythe) | ![Stars](https://img.shields.io/github/stars/Goldziher/scythe?style=flat-square) | Polyglot SQL compiler and linter |
@@ -75,5 +76,4 @@ Archived projects that still represent substantial previous work.
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [grantflow](https://github.com/grantflow-ai/grantflow) | ![Stars](https://img.shields.io/github/stars/grantflow-ai/grantflow?style=flat-square) | Archived RAG system for grant applications |
-| [basemind.ai](https://github.com/Goldziher/basemind.ai) | ![Stars](https://img.shields.io/github/stars/Goldziher/basemind.ai?style=flat-square) | Archived AI platform monorepo |
 | [devlingo](https://github.com/Goldziher/devlingo) | ![Stars](https://img.shields.io/github/stars/Goldziher/devlingo?style=flat-square) | Archived developer language and tooling monorepo |
